@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="150">
+        <titulo>Notícia Um</titulo>
+        <corpo>Primeira notícia Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tempora illo tenetur autem ratione, quos architecto at ut rem libero recusandae aliquid excepturi laborum officiis esse sapiente ayd modi exercitationem, voluptatem dolorum. Error eum laboriosam perferendis possimus iste similique, sit autem omnis magnam eaque alias assumenda inventore obcaecati quasi quas!</corpo>
+        <imagem>hulk.jpg</imagem>
+        <teste>
+            <destaque>
+                Carlos
+            </destaque>
+        </teste>
+    </postagem>
+    <postagem codigo="151">
+        <titulo>Notícia Dois</titulo>
+        <corpo>Segunda notícia Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tempora illo tenetur autem ratione, quos architecto at ut rem libero recusandae aliquid excepturi laborum officiis esse sapiente ad modi exercitationem, voluptatem dolorum. Error eum laboriosam perferendis possimus iste similique, sit autem omnis magnam eaque alias assumenda inventore obcaecati quasi quas!</corpo>
+        <imagem>mm.png</imagem>
+    </postagem>
+    <postagem codigo="152">
+        <titulo>Notícia Três</titulo>
+        <corpo>Terceira notícia Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tempora illo tenetur autem ratione, quos architecto at ut rem libero recusandae aliquid excepturi laborum officiis esse sapiente ad modi exercitationem, voluptatem dolorum. Error eum laboriosam perferendis possimus iste similique, sit autem omnis magnam eaque alias assumenda inventore obcaecati quasi quas!</corpo>
+        <imagem>wolverine.jpg</imagem>
+    </postagem>
+</conteudo>
